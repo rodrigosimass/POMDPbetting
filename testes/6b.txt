@@ -1,0 +1,51 @@
+Belief:
+[[0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07]]
+MLS action: 0; AV action: 1; Q-MDP action: 1; Optimal action: 0
+
+Belief:
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0.]]
+MLS action: 0; AV action: 0; Q-MDP action: 0; Optimal action: 0
+
+Belief:
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1.]]
+MLS action: 0; AV action: 0; Q-MDP action: 0; Optimal action: 0
+
+Belief:
+[[1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+MLS action: 0; AV action: 0; Q-MDP action: 0; Optimal action: 0
+
+Belief:
+[[0.   0.33 0.33 0.33 0.   0.   0.   0.   0.   0.   0.   0.   0.   0.  ]]
+MLS action: 1; AV action: 1; Q-MDP action: 1; Optimal action: 0
+
+Belief:
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0.]]
+MLS action: 0; AV action: 0; Q-MDP action: 0; Optimal action: 0
+
+Belief:
+[[0.   0.   0.   0.   0.   0.   0.   0.33 0.33 0.33 0.   0.   0.   0.  ]]
+MLS action: 0; AV action: 0; Q-MDP action: 0; Optimal action: 0
+
+Belief:
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0.]]
+MLS action: 0; AV action: 0; Q-MDP action: 0; Optimal action: 0
+
+Belief:
+[[0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0.]]
+MLS action: 0; AV action: 0; Q-MDP action: 0; Optimal action: 0
+
+Belief:
+[[0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+MLS action: 1; AV action: 1; Q-MDP action: 1; Optimal action: 1
+
+Belief:
+[[0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+MLS action: 0; AV action: 0; Q-MDP action: 0; Optimal action: 0
+
+Belief:
+[[0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+MLS action: 1; AV action: 1; Q-MDP action: 1; Optimal action: 1
+
+Belief:
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0.]]
+MLS action: 2; AV action: 2; Q-MDP action: 2; Optimal action: 2

@@ -1,0 +1,5 @@
+States: [ 0  3  6  3 11 13  0  2 11 13  0]
+Actions: [2 0 2 2 1 0 0 2 2 2]
+Observations: [1 4 1 7 9 0 1 7 9 0]
+Trajectory:
+{(I, c, 2), (2C, a, C), (C, c, 2), (2C, c, Q), (Q, b, F), (F, a, I), (I, a, 2), (2B, c, Q), (Q, c, F), (F, c, I)}

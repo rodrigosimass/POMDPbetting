@@ -1,0 +1,13 @@
+Number of states: 14
+Random state: C
+Number of actions: 3
+Random action: a
+Number of observations: 10
+Random observation: Q
+Transition probabilities for the selected state/action:
+[0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+Observation probabilities for the selected state/action:
+[0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
+Cost for the selected state/action:
+0.0
+Discount: 0.99
